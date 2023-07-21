@@ -1,0 +1,26 @@
+.container {
+  max-width: 1440px;
+  margin: 0px auto;
+  display: flex;
+  gap: 20px;
+  border-bottom: 2px solid var(--light-gray);
+}
+
+.nav {
+  padding: 5px 10px;
+  cursor: pointer;
+  margin: 10px 0px;
+}
+
+.latest,
+.rising,
+.liked {
+  margin: unset;
+  margin-top: 10px;
+
+  margin-bottom: -2px;
+}
+
+.active {
+  border-bottom: 2px solid rgb(255, 132, 0);
+}

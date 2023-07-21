@@ -1,0 +1,11 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 8" width="64" height="8">
+	<title>My Layer 0</title>
+	<defs>
+		<image width="118" height="10" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHYAAAAKCAYAAABhR6qrAAAAAXNSR0IArs4c6QAAAN9JREFUWEdjZEACUXGJLv//M+owMjIJIIuPsgd3CPz//+8DI+P/K8sWzd8DcykjiBERkSTFzM64lIGB0WFwe2HUdfhC4D/D/82////OXL1o0VNwxEbFpWxgZGTwHw22oR8C////X7ls0dwIxvDoBFMWFpZTQ99Loz6AhcCfP3/MGKNjkzIYmJimjwbLMAqBf/8yRyN2GMUn3CugiB0tiodfzP75+89gtPE0zOIV3ngC+Ss0Lk6ajYH1IgMjo/Aw8+eI8s5/hv/vfn9jUF29eu47cI6FgdEBiqGZDrANUAAAYWpQmuUtjfgAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+	</style>
+	<g id="My Layer 0">
+		<use id="Hoorizontal-Rule" href="#img1" transform="matrix(.542,0,0,.8,0,0)"/>
+	</g>
+</svg>

@@ -1,0 +1,280 @@
+[
+  {
+    "topicId": "1a4ks9",
+    "topic": "Building Resilience",
+    "category": "Mental Strength",
+    "users": [
+      {
+        "username": "Akshara",
+        "age": 35,
+        "gender": "Female"
+      },
+      {
+        "username": "Kabir",
+        "age": 33,
+        "gender": "Male"
+      },
+      {
+        "username": "Tanvi",
+        "age": 28,
+        "gender": "Non-binary"
+      }
+    ],
+    "replies": [
+      {
+        "user": "Akshara",
+        "reply": "Practicing self-compassion and positive affirmations can enhance resilience.",
+        "timestamp": "2023-07-21 12:45:00"
+      },
+      {
+        "user": "Kabir",
+        "reply": "Developing problem-solving skills and seeking support when needed are crucial.",
+        "timestamp": "2023-07-21 13:30:15"
+      },
+      {
+        "user": "Tanvi",
+        "reply": "Embracing change and viewing challenges as opportunities can foster resilience.",
+        "timestamp": "2023-07-21 14:10:45"
+      }
+    ],
+    "views": 1432,
+    "last_activity": "2023-07-21 14:10:45"
+  },
+  {
+    "topicId": "3r9qf2",
+    "topic": "Understanding Anxiety",
+    "category": "Mental Health Education",
+    "users": [
+      {
+        "username": "Priya",
+        "age": 30,
+        "gender": "Female"
+      },
+      {
+        "username": "Rahul",
+        "age": 25,
+        "gender": "Male"
+      },
+      {
+        "username": "Aarav",
+        "age": 28,
+        "gender": "Non-binary"
+      }
+    ],
+    "replies": [
+      {
+        "user": "Rahul",
+        "reply": "Anxiety can be tough, but practicing mindfulness has helped me a lot.",
+        "timestamp": "2023-07-20 10:25:00"
+      },
+      {
+        "user": "Priya",
+        "reply": "Remember to breathe deeply when anxiety strikes. It can make a big difference.",
+        "timestamp": "2023-07-20 11:12:30"
+      },
+      {
+        "user": "Aarav",
+        "reply": "Talking to a therapist can be beneficial too. Don't hesitate to seek professional help.",
+        "timestamp": "2023-07-20 12:40:15"
+      }
+    ],
+    "views": 2367,
+    "last_activity": "2023-07-20 12:40:15"
+  },
+  {
+    "topicId": "5g8u72",
+    "topic": "Understanding Depression",
+    "category": "Mental Health Education",
+    "users": [
+      {
+        "username": "Aishwarya",
+        "age": 27,
+        "gender": "Female"
+      },
+      {
+        "username": "Arjun",
+        "age": 32,
+        "gender": "Male"
+      },
+      {
+        "username": "Aditi",
+        "age": 24,
+        "gender": "Non-binary"
+      }
+    ],
+    "replies": [
+      {
+        "user": "Arjun",
+        "reply": "Depression is challenging, but therapy and medication can be helpful.",
+        "timestamp": "2023-07-20 15:20:00"
+      },
+      {
+        "user": "Aishwarya",
+        "reply": "Seek support from loved ones and engage in activities you enjoy.",
+        "timestamp": "2023-07-20 16:10:45"
+      }
+    ],
+    "views": 1256,
+    "last_activity": "2023-07-20 16:10:45"
+  },
+  {
+    "topicId": "1y4pt9",
+    "topic": "Coping with Stress",
+    "category": "Stress Management",
+    "users": [
+      {
+        "username": "Aarav",
+        "age": 40,
+        "gender": "Male"
+      },
+      {
+        "username": "Aanya",
+        "age": 29,
+        "gender": "Female"
+      },
+      {
+        "username": "Aadil",
+        "age": 26,
+        "gender": "Non-binary"
+      }
+    ],
+    "replies": [
+      {
+        "user": "Aanya",
+        "reply": "Meditation and yoga have been my go-to stress relievers.",
+        "timestamp": "2023-07-20 14:30:00"
+      },
+      {
+        "user": "Aadil",
+        "reply": "Spending time in nature can also help reduce stress levels.",
+        "timestamp": "2023-07-20 14:55:20"
+      },
+      {
+        "user": "Aarav",
+        "reply": "Practicing mindfulness can bring a sense of calm during stressful times.",
+        "timestamp": "2023-07-20 15:40:10"
+      }
+    ],
+    "views": 1894,
+    "last_activity": "2023-07-20 15:40:10"
+  },
+  {
+    "topicId": "9k5ms1",
+    "topic": "Overcoming Loneliness",
+    "category": "Emotional Well-being",
+    "users": [
+      {
+        "username": "Riya",
+        "age": 31,
+        "gender": "Female"
+      },
+      {
+        "username": "Vikram",
+        "age": 27,
+        "gender": "Male"
+      },
+      {
+        "username": "Ishaan",
+        "age": 29,
+        "gender": "Non-binary"
+      }
+    ],
+
+    "replies": [
+      {
+        "user": "Ishaan",
+        "reply": "Engaging in hobbies and reaching out to friends can help combat loneliness.",
+        "timestamp": "2023-07-21 10:00:00"
+      },
+      {
+        "user": "Vikram",
+        "reply": "Joining social groups and volunteering can also create meaningful connections.",
+        "timestamp": "2023-07-21 11:20:30"
+      }
+    ],
+    "views": 879,
+    "last_activity": "2023-07-21 11:20:30"
+  },
+  {
+    "topicId": "7f2jn3",
+    "topic": "Managing Grief and Loss",
+    "category": "Coping with Loss",
+    "users": [
+      {
+        "username": "Neha",
+        "age": 29,
+        "gender": "Female"
+      },
+      {
+        "username": "Rajat",
+        "age": 31,
+        "gender": "Male"
+      },
+      {
+        "username": "Aditi",
+        "age": 27,
+        "gender": "Non-binary"
+      }
+    ],
+    "replies": [
+      {
+        "user": "Rajat",
+        "reply": "Allow yourself to grieve, and consider seeking professional help if needed.",
+        "timestamp": "2023-07-22 09:50:00"
+      },
+      {
+        "user": "Neha",
+        "reply": "Connecting with others who have experienced loss can provide support.",
+        "timestamp": "2023-07-22 10:30:30"
+      },
+      {
+        "user": "Aditi",
+        "reply": "Engaging in rituals and activities that honor the loved one's memory can be comforting.",
+        "timestamp": "2023-07-22 11:15:20"
+      }
+    ],
+    "views": 1789,
+    "last_activity": "2023-07-22 11:15:20"
+  },
+  {
+    "topicId": "5p3bm8",
+    "topic": "Nurturing Self-Compassion",
+    "category": "Self-Love and Care",
+    "users": [
+      {
+        "username": "Aaradhya",
+        "age": 26,
+        "gender": "Female"
+      },
+      {
+        "username": "Aarush",
+        "age": 30,
+        "gender": "Male"
+      },
+      {
+        "username": "Anvi",
+        "age": 29,
+        "gender": "Non-binary"
+      }
+    ],
+    "replies": [
+      {
+        "user": "Aaradhya",
+        "reply": "Being kind to yourself and acknowledging imperfections is essential for self-compassion.",
+        "timestamp": "2023-07-22 14:20:00"
+      },
+      {
+        "user": "Aarush",
+        "reply": "Practicing mindfulness and avoiding self-criticism can foster self-compassion.",
+        "timestamp": "2023-07-22 15:00:45"
+      },
+      {
+        "user": "Anvi",
+        "reply": "Treating yourself with the same warmth you'd show a friend can nurture self-compassion.",
+        "timestamp": "2023-07-22 15:45:10"
+      }
+    ],
+    "views": 2056,
+    "last_activity": "2023-07-22 15:45:10"
+  }
+]

@@ -1,0 +1,11 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72" width="72" height="72">
+	<title>My Layer 0</title>
+	<defs>
+		<image width="82" height="82" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFIAAABSCAYAAADHLIObAAAAAXNSR0IArs4c6QAAAmdJREFUeF7t3bGKE1EYhuFzYtRWsNPazsJGWwXtrcSQxcFdtjBX4XoVWrirjCYQ0gi2FtpqteAt2C5WNolzZBaiUcxk2Lwuh/imC8x8c+bhC5PAP5kY8n3FfrF9O6V4tV5ijOnzqHzxLtflxhwX1uvtXDpzPg5DiLcW15dCejtN08GkLL/ktu4sIfvF7psYw92/YaWUxqNyvyfkCoH7Ww+vd7vdj02bzWazG+Phy085YWbXyK0HO49Cp/O0EamqBsNXB8+EbBDoF7t7MYbHTUgphSej8vmekEL++w7YSMhYSCEhASjGRgoJCUAxNlJISACKsZFCQgJQjI0UEhKAYmykkJAAFGMjhYQEoBgbKSQkAMXYSCEhASjGRgoJCUAxNlJISACKsZFCQgJQjI0UEhKAYmykkL8E+sX2nXpmO8bOBcjlJDH1uPPNFTt+CCG8P0k4sU9K1dc/Z9qPB02XzWwTB93kjMWZ9mPIppntTYYgzm0+0x7bzGwTB9zkjHqmPbaa2d5kBeLcqmogJAXpR3t9ydn36poXmzUdf15s6px7RXH5XDh7GGK8uGbuf7V7Culo+i1cmUz2j367Yckv5O16sPQLebvdT2crf2tDzkIKCQlAMTZSSEgAirGRQkICUIyNFBISgGJspJCQABRjI4WEBKAYGykkJADF2EghIQEoxkYKCQlAMTZSSEgAirGRQkICUIyNFBISgGJspJCQABRjI4WEBKAYGykkJADFtLo5wD90X63dZqa9ntkevz44XJ12eltk94iB+tR96AVUgGUz7Ysz29ChsJgsGzk/u/lMe/0+9wcD/QCaEVoAKXVyUAAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+	</style>
+	<g id="My Layer 0">
+		<use id="Add" href="#img1" transform="matrix(.878,0,0,.878,0,0)"/>
+	</g>
+</svg>

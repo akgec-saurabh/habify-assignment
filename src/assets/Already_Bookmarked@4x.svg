@@ -1,0 +1,11 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 72" width="48" height="72">
+	<title>My Layer 0</title>
+	<defs>
+		<image width="82" height="118" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFIAAAB2CAYAAABbEcS7AAAAAXNSR0IArs4c6QAAA3VJREFUeF7t3U9r03Acx/HvN3NKdxL88xi8+AcEj3oYKIKXHYprSiO2RQUfxOpzELysDFaKYoQdBGEHhe0meBIEH4PC8GSR2vwkwWgdc22TT5Jf009PZW3fI69+2oYymMrYZb3eWlXHXFR1To//nNf/FTAm+CZiPj7vbb2Lb9HwSq1WO+ssr/RF9SbRphcwRnaHA+P6fvcggnS91htVvT19gvf8I2DkVX97s6qu17qmqu9Jk1zg5yi4ovVG87E4ztPkGT5SguCBul67oyob5EguYIw8IWRyv79vk4QEKIoIF4lxJCTIkZCERAmAOnyPJCRIAJThIgkJEgBluEhCggRAGS6SkCABUIaLJCRIAJThIgkJEgBluEhCggRAGS6SkCABUIaLJCRIAJThIgkJEgBluEhCggRAGS6SkCABUIaLJCRIAJThIgkJEgBluEhCggRAGS6SkCABUIaLJCRIAJThIgkJEgBluEhCggRAGS6SkCABUIaLJCRIAJThIgkJEgBluEhCggRAGS6SkCABUIaLJCRIAJThIgkJEgBluEhCggRAGS6SkCABUIaLJCRIAJThIgkJEgBluEhCggRAGS6SkCABUIaLJCRIAJThIgkJEgBluEhCggRAGS5ykSCNyOfweFXkAui44RnrFxkiDr+ProdHvryytG8rptWQMaLvb30NIavV++dsxbQW8jBi/Fq0FdNKyP8h2oxpHeQkRFsxrYKcFtFGTGsgZ0W0DdMKyKSINmEWDpkW0RbMQiFRiDZgFgaJRiwasxDIrBCLxMwdMmvEojBzhcwLsQjM3CDzRswbMxfIohDzxMwcsmjEvDB/QzY3VJ0O+mtjWxDzwDQm6GTy/7VDxEHw48ZOr/cF/QSl6a01Gucrzqk99Dftmby0bVviYfgsvhyGQ9qOmNXLHAo5L4hZYMIg5w0RjQmBnFdEJGZqyHlHRGGmgrT1FCfp6VGaU6PEkGVZIurUKBFkWRHTvMxnhiw7YlLMCLLeaD4Sx3k26b1lURCTYBqRh+rea19VkQ/HQZbtg2XSaOLbp/0ACoxc1vBBrtd+rSp3jvoFi7bEmT+AjLzsb2/ejSDXPO9MRU72VeXWeMgY2R0ORo34T+umfSbLdr/oi47KUu9oH+P6fvcggowv6/XWqnNCLkmgoyAwn170u2/LhpLmeI7z+QUtE48AGPF+DwAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+	</style>
+	<g id="My Layer 0">
+		<use id="Already_Bookmarked" href="#img1" transform="matrix(.585,0,0,.61,0,0)"/>
+	</g>
+</svg>

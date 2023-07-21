@@ -1,0 +1,21 @@
+.container {
+  padding: 10px;
+  display: grid;
+  grid-template-columns: 3fr 2fr 1fr 1fr 1fr 1fr;
+  background-color: var(--white);
+}
+
+.users {
+  display: flex;
+  gap: 5px;
+}
+
+.container:nth-child(even) {
+  background-color: var(--light-gray);
+}
+
+.category,
+.views,
+.activity {
+  color: var(--dark-gray);
+}
