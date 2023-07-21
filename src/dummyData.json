@@ -158,6 +158,356 @@
     "views": 1894,
     "last_activity": "2023-07-20 15:40:10"
   },
+
+  {
+    "topicId": "3c8d24",
+    "topic": "Stress Management",
+    "category": "Mental Well-being",
+    "users": [
+      {
+        "username": "Sophia",
+        "age": 29,
+        "gender": "Female"
+      },
+      {
+        "username": "Daniel",
+        "age": 32,
+        "gender": "Male"
+      },
+      {
+        "username": "Taylor",
+        "age": 26,
+        "gender": "Non-binary"
+      }
+    ],
+    "replies": [
+      {
+        "user": "Sophia",
+        "reply": "Practicing deep breathing exercises has been effective in reducing my stress levels.",
+        "timestamp": "2023-07-20 11:15:00"
+      },
+      {
+        "user": "Daniel",
+        "reply": "Engaging in regular physical activity has helped me cope with stress better.",
+        "timestamp": "2023-07-20 13:30:15"
+      },
+      {
+        "user": "Taylor",
+        "reply": "I find mindfulness meditation to be a valuable tool in managing stress.",
+        "timestamp": "2023-07-20 15:10:45"
+      }
+    ],
+    "views": 1750,
+    "last_activity": "2023-07-20 15:10:45"
+  },
+  {
+    "topicId": "9f2a17",
+    "topic": "Healthy Sleep Habits",
+    "category": "Physical Well-being",
+    "users": [
+      {
+        "username": "Olivia",
+        "age": 31,
+        "gender": "Female"
+      },
+      {
+        "username": "Liam",
+        "age": 27,
+        "gender": "Male"
+      }
+    ],
+    "replies": [
+      {
+        "user": "Olivia",
+        "reply": "Establishing a consistent bedtime routine has improved my sleep quality.",
+        "timestamp": "2023-07-19 10:45:00"
+      },
+      {
+        "user": "Liam",
+        "reply": "Limiting screen time before bed has helped me fall asleep more easily.",
+        "timestamp": "2023-07-19 12:30:15"
+      }
+    ],
+    "views": 1325,
+    "last_activity": "2023-07-19 12:30:15"
+  },
+  {
+    "topicId": "5g1b36",
+    "topic": "Coping with Loss",
+    "category": "Emotional Resilience",
+    "users": [
+      {
+        "username": "Ava",
+        "age": 40,
+        "gender": "Female"
+      },
+      {
+        "username": "Noah",
+        "age": 38,
+        "gender": "Male"
+      },
+      {
+        "username": "Riley",
+        "age": 33,
+        "gender": "Non-binary"
+      }
+    ],
+    "replies": [
+      {
+        "user": "Ava",
+        "reply": "Talking to a grief counselor has been instrumental in my healing process.",
+        "timestamp": "2023-07-18 14:15:00"
+      },
+      {
+        "user": "Noah",
+        "reply": "Engaging in creative expression like writing has helped me cope with loss.",
+        "timestamp": "2023-07-18 16:30:15"
+      },
+      {
+        "user": "Riley",
+        "reply": "Attending support group meetings has made me feel less alone in my grief.",
+        "timestamp": "2023-07-18 18:10:45"
+      }
+    ],
+    "views": 1780,
+    "last_activity": "2023-07-18 18:10:45"
+  },
+  {
+    "topicId": "8h3m12",
+    "topic": "Work-Life Balance",
+    "category": "Personal Development",
+    "users": [
+      {
+        "username": "Ella",
+        "age": 35,
+        "gender": "Female"
+      },
+      {
+        "username": "Mason",
+        "age": 40,
+        "gender": "Male"
+      },
+      {
+        "username": "Avery",
+        "age": 29,
+        "gender": "Non-binary"
+      },
+      {
+        "username": "Logan",
+        "age": 33,
+        "gender": "Male"
+      }
+    ],
+    "replies": [
+      {
+        "user": "Ella",
+        "reply": "Setting boundaries at work has allowed me to have a healthier work-life balance.",
+        "timestamp": "2023-07-17 11:45:00"
+      },
+      {
+        "user": "Mason",
+        "reply": "Spending quality time with family has brought more balance into my life.",
+        "timestamp": "2023-07-17 13:30:15"
+      },
+      {
+        "user": "Avery",
+        "reply": "Prioritizing self-care activities has made a significant difference in my well-being.",
+        "timestamp": "2023-07-17 15:10:45"
+      },
+      {
+        "user": "Logan",
+        "reply": "Flexible work arrangements have helped me achieve a better work-life balance.",
+        "timestamp": "2023-07-17 17:45:30"
+      }
+    ],
+    "views": 2115,
+    "last_activity": "2023-07-17 17:45:30"
+  },
+  {
+    "topicId": "7j9l25",
+    "topic": "Building Self-Confidence",
+    "category": "Personal Growth",
+    "users": [
+      {
+        "username": "Chloe",
+        "age": 28,
+        "gender": "Female"
+      },
+      {
+        "username": "Ethan",
+        "age": 31,
+        "gender": "Male"
+      },
+      {
+        "username": "Skyler",
+        "age": 25,
+        "gender": "Non-binary"
+      }
+    ],
+    "replies": [
+      {
+        "user": "Chloe",
+        "reply": "Challenging myself to step out of my comfort zone has boosted my self-confidence.",
+        "timestamp": "2023-07-16 09:20:00"
+      },
+      {
+        "user": "Ethan",
+        "reply": "Surrounding myself with supportive and positive people has been empowering.",
+        "timestamp": "2023-07-16 11:05:15"
+      },
+      {
+        "user": "Skyler",
+        "reply": "Celebrating my achievements, no matter how small, has improved my self-esteem.",
+        "timestamp": "2023-07-16 13:20:45"
+      }
+    ],
+    "views": 1540,
+    "last_activity": "2023-07-16 13:20:45"
+  },
+  {
+    "topicId": "4i6p91",
+    "topic": "Social Connection and Loneliness",
+    "category": "Emotional Well-being",
+    "users": [
+      {
+        "username": "Harper",
+        "age": 27,
+        "gender": "Female"
+      },
+      {
+        "username": "Jackson",
+        "age": 29,
+        "gender": "Male"
+      }
+    ],
+    "replies": [
+      {
+        "user": "Harper",
+        "reply": "Engaging in group activities has helped me feel more connected to others.",
+        "timestamp": "2023-07-15 14:50:00"
+      },
+      {
+        "user": "Jackson",
+        "reply": "Reaching out to old friends has helped alleviate feelings of loneliness.",
+        "timestamp": "2023-07-15 16:30:15"
+      }
+    ],
+    "views": 1855,
+    "last_activity": "2023-07-15 16:30:15"
+  },
+  {
+    "topicId": "1t8h76",
+    "topic": "Cultivating Gratitude",
+    "category": "Positive Psychology",
+    "users": [
+      {
+        "username": "Aria",
+        "age": 29,
+        "gender": "Female"
+      },
+      {
+        "username": "Carter",
+        "age": 31,
+        "gender": "Male"
+      }
+    ],
+    "replies": [
+      {
+        "user": "Aria",
+        "reply": "Keeping a gratitude journal has shifted my focus towards the positives in life.",
+        "timestamp": "2023-07-13 11:20:00"
+      },
+      {
+        "user": "Carter",
+        "reply": "Expressing gratitude to others has deepened my sense of connection and joy.",
+        "timestamp": "2023-07-13 13:05:15"
+      }
+    ],
+    "views": 1625,
+    "last_activity": "2023-07-13 13:05:15"
+  },
+  {
+    "topicId": "5r9k31",
+    "topic": "Developing Empathy",
+    "category": "Social Skills",
+    "users": [
+      {
+        "username": "Aiden",
+        "age": 26,
+        "gender": "Male"
+      },
+      {
+        "username": "Zoe",
+        "age": 28,
+        "gender": "Female"
+      },
+      {
+        "username": "Riley",
+        "age": 24,
+        "gender": "Non-binary"
+      },
+      {
+        "username": "Evelyn",
+        "age": 30,
+        "gender": "Female"
+      }
+    ],
+    "replies": [
+      {
+        "user": "Aiden",
+        "reply": "Practicing active listening has helped me understand others' perspectives better.",
+        "timestamp": "2023-07-12 12:15:00"
+      },
+      {
+        "user": "Zoe",
+        "reply": "Engaging in volunteer work has nurtured my sense of empathy towards others.",
+        "timestamp": "2023-07-12 14:30:15"
+      },
+      {
+        "user": "Riley",
+        "reply": "Reading literature and stories from diverse backgrounds has increased my empathy.",
+        "timestamp": "2023-07-12 16:10:45"
+      },
+      {
+        "user": "Evelyn",
+        "reply": "Empathy workshops have been valuable in developing my emotional intelligence.",
+        "timestamp": "2023-07-12 18:45:30"
+      }
+    ],
+    "views": 2050,
+    "last_activity": "2023-07-12 18:45:30"
+  },
+  {
+    "topicId": "6u4z17",
+    "topic": "Digital Detox",
+    "category": "Technology and Well-being",
+    "users": [
+      {
+        "username": "Eva",
+        "age": 32,
+        "gender": "Female"
+      },
+      {
+        "username": "Leo",
+        "age": 29,
+        "gender": "Male"
+      }
+    ],
+    "replies": [
+      {
+        "user": "Eva",
+        "reply": "Taking regular breaks from screens has improved my overall well-being.",
+        "timestamp": "2023-07-11 09:30:00"
+      },
+      {
+        "user": "Leo",
+        "reply": "Setting boundaries with technology has allowed me to be more present in the moment.",
+        "timestamp": "2023-07-11 11:15:15"
+      }
+    ],
+    "views": 1805,
+    "last_activity": "2023-07-11 11:15:15"
+  },
   {
     "topicId": "9k5ms1",
     "topic": "Overcoming Loneliness",
@@ -179,7 +529,6 @@
         "gender": "Non-binary"
       }
     ],
-
     "replies": [
       {
         "user": "Ishaan",
@@ -276,5 +625,91 @@
     ],
     "views": 2056,
     "last_activity": "2023-07-22 15:45:10"
+  },
+  {
+    "topicId": "2b5p31",
+    "topic": "Emotional Health",
+    "category": "Mental Well-being",
+    "users": [
+      {
+        "username": "Emily",
+        "age": 27,
+        "gender": "Female"
+      },
+      {
+        "username": "Alex",
+        "age": 30,
+        "gender": "Male"
+      },
+      {
+        "username": "Jordan",
+        "age": 24,
+        "gender": "Non-binary"
+      },
+      {
+        "username": "Mia",
+        "age": 42,
+        "gender": "Female"
+      },
+      {
+        "username": "Ryan",
+        "age": 35,
+        "gender": "Male"
+      }
+    ],
+    "replies": [
+      {
+        "user": "Emily",
+        "reply": "Practicing mindfulness has helped me better understand my emotions.",
+        "timestamp": "2023-07-20 10:15:00"
+      },
+      {
+        "user": "Alex",
+        "reply": "Engaging in regular physical exercise significantly improved my emotional well-being.",
+        "timestamp": "2023-07-20 12:30:15"
+      },
+      {
+        "user": "Jordan",
+        "reply": "I find journaling to be a therapeutic way to express and process my feelings.",
+        "timestamp": "2023-07-20 14:10:45"
+      },
+      {
+        "user": "Mia",
+        "reply": "Building a strong support system has been essential in managing my emotional health.",
+        "timestamp": "2023-07-20 16:45:30"
+      },
+      {
+        "user": "Ryan",
+        "reply": "Learning emotional regulation techniques has been transformative for me.",
+        "timestamp": "2023-07-21 09:20:00"
+      },
+      {
+        "user": "Emily",
+        "reply": "Cultivating gratitude has positively impacted my overall emotional well-being.",
+        "timestamp": "2023-07-21 11:05:15"
+      },
+      {
+        "user": "Alex",
+        "reply": "I find spending time in nature to be incredibly rejuvenating for my emotions.",
+        "timestamp": "2023-07-21 13:20:45"
+      },
+      {
+        "user": "Jordan",
+        "reply": "Engaging in creative activities like painting has been therapeutic for my emotional health.",
+        "timestamp": "2023-07-21 15:30:00"
+      },
+      {
+        "user": "Mia",
+        "reply": "Setting clear boundaries in my personal and professional life has reduced emotional stress.",
+        "timestamp": "2023-07-21 17:15:45"
+      },
+      {
+        "user": "Ryan",
+        "reply": "Learning to forgive myself and others has been crucial for my emotional healing.",
+        "timestamp": "2023-07-22 08:50:00"
+      }
+    ],
+    "views": 1956,
+    "last_activity": "2023-07-22 08:50:00"
   }
 ]

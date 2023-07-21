@@ -16,7 +16,7 @@ const TopicNav = () => {
     } else {
       dispatch(topicActions.clearFilter());
     }
-  }, [rising]);
+  }, [rising, latest]);
   return (
     <div className={classes.container}>
       <select
@@ -57,7 +57,7 @@ const TopicNav = () => {
       >
         Rising
       </div>
-      <div
+      {/* <div
         className={`${classes.nav} ${classes.liked}  ${
           liked ? `${classes.active}` : ""
         }`}
@@ -66,7 +66,7 @@ const TopicNav = () => {
         }}
       >
         Most Liked
-      </div>
+      </div> */}
     </div>
   );
 };

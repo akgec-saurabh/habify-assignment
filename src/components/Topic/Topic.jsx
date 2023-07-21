@@ -9,9 +9,12 @@ const Topic = ({ topic }) => {
       <div>{topic.topic}</div>
       <div className={classes.category}>{topic.category}</div>
       <div className={classes.users}>
-        {topic.users.map((user, i) => (
-          <CustomAvatar key={i} name={user.username} />
-        ))}
+        {topic.users.map((user, i) => {
+          if (i > 2) {
+            return;
+          }
+          return <CustomAvatar key={i} name={user.username} />;
+        })}
       </div>
       <div>{topic.replies.length}</div>
       <div className={classes.views}>{topic.views / 1000}k</div>

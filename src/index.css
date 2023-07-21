@@ -6,6 +6,7 @@
 
 :root {
   --primary-red: rgb(173, 9, 34);
+  --primary-red-light: rgb(202, 18, 46);
   --primary-black: rgb(26, 23, 24);
 
   --secondary-gray: rgb(178, 175, 170);
@@ -13,7 +14,7 @@
   --light-gray: rgb(220, 220, 220);
   --lighter-gray: rgb(237, 237, 237);
   --dark-gray: rgb(121, 121, 121);
-
+  --orange: rgb(255, 132, 0);
   --white: #fff;
 }
 
@@ -22,4 +23,9 @@ body {
   font-family: "Work Sans", sans-serif;
   font-size: 16px;
   background-color: var(--lighter-gray);
+}
+
+input {
+  border: none;
+  outline: none;
 }

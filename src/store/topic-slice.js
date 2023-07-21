@@ -28,9 +28,11 @@ const topicSlice = createSlice({
     },
 
     filterTopicByLatest(state) {
-      state.filter = [...state.initial].sort(
-        (topic1, topic2) => topic2.last_activity - topic1.last_activity
-      );
+      state.filter = [...state.initial].sort((topic1, topic2) => {
+        const timestamp1 = new Date(topic1.last_activity);
+        const timestamp2 = new Date(topic2.last_activity);
+        return timestamp2 - timestamp1;
+      });
     },
 
     clearFilter(state) {

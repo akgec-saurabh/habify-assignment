@@ -3,6 +3,12 @@
   display: grid;
   grid-template-columns: 3fr 2fr 1fr 1fr 1fr 1fr;
   background-color: var(--white);
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.container:hover {
+  transform: scale(1.02);
 }
 
 .users {
@@ -11,7 +17,7 @@
 }
 
 .container:nth-child(even) {
-  background-color: var(--light-gray);
+  background-color: var(--lighter-gray);
 }
 
 .category,

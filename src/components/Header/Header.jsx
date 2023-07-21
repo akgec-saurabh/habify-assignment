@@ -3,8 +3,21 @@ import classes from "./Header.module.css";
 import logo from "../../assets/EFA_Registered Logo.png";
 import search from "../../assets/Search@4x.svg";
 import menu from "../../assets/Menu_Icon@4x.svg";
+import userIcon from "../../assets/User@4x.svg";
 import notification from "../../assets/Notification@4x.svg";
+import { useDispatch, useSelector } from "react-redux";
+import { authActions } from "../../store/auth-slice";
 const Header = () => {
+  const { isLogin, user } = useSelector((state) => state.auth);
+  const dispatch = useDispatch();
+
+  const onLoginHandler = () => {
+    dispatch(authActions.onloginMode());
+  };
+
+  const onLogoutHandler = () => {
+    dispatch(authActions.logout());
+  };
   return (
     <div className={classes.container}>
       <div className={classes.headerWrapper}>
@@ -21,8 +34,23 @@ const Header = () => {
           <img className={classes.icon} src={notification} alt="notification" />
 
           <div className={classes.user}>
-            <div className={classes.pic}>A</div>
-            <div>azyrusmax</div>
+            {isLogin && (
+              <div onClick={onLogoutHandler} className={classes.userWrapper}>
+                <div className={classes.pic}>{user.firstName.charAt(0)}</div>
+                <div>{user.username}</div>
+              </div>
+            )}
+            {!isLogin && (
+              <div
+                onClick={onLoginHandler}
+                className={`${classes.userWrapper} ${classes.login}`}
+              >
+                <div className={classes.pic}>
+                  <img className={classes.icon} src={userIcon} alt="" />
+                </div>
+                Login
+              </div>
+            )}
           </div>
         </div>
       </div>

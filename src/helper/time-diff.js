@@ -1,6 +1,6 @@
 // Function to get the time difference in a human-readable format
 export function getTimeDifference(timestamp) {
-  const currentTime = new Date();
+  const currentTime = new Date("2023-07-24 08:50:00");
   const targetTime = new Date(timestamp);
 
   const timeDifference = Math.abs(currentTime - targetTime); // Get the difference in milliseconds

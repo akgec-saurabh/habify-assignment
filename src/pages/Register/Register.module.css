@@ -1,0 +1,190 @@
+.container {
+  max-width: 640px;
+  margin: 0px auto;
+  background-color: var(--white);
+  padding: 40px 20px;
+  margin-top: 50px;
+  padding-top: 150px;
+}
+
+.container form {
+  position: relative;
+  z-index: 9;
+  background-color: inherit;
+}
+
+.nameWrapper {
+  display: flex;
+  /* justify-content: center; */
+  width: 100%;
+  gap: 20px;
+}
+
+.container label {
+  display: block;
+  margin-top: 25px;
+}
+
+.container input {
+  width: 100%;
+  padding-bottom: 15px;
+  border-bottom: 2px solid var(--light-gray);
+}
+
+.firstName,
+.lastName {
+  width: 100%;
+}
+
+.register {
+  margin-top: 25px;
+  border: none;
+  outline: none;
+  background-color: var(--primary-red);
+  color: var(--white);
+  padding: 10px;
+  width: 100%;
+  cursor: pointer;
+}
+
+.register:hover {
+  background-color: var(--primary-red-light);
+}
+
+/* for Checkbox */
+
+.checkboxWrapper {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 15px;
+}
+
+.agree {
+  display: flex;
+  flex-direction: row-reverse;
+  flex: 1;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.newsletter {
+  display: flex;
+  flex-direction: row-reverse;
+  flex: 1;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.checkboxWrapper input {
+  width: 15px;
+  margin-right: 10px;
+}
+
+.checkboxWrapper label {
+  margin-top: unset;
+}
+
+.disable {
+  background-color: var(--secondary-gray);
+}
+
+.disable:hover {
+  background-color: var(--secondary-gray);
+}
+
+/* ---------------Header-------------------------- */
+
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  position: relative;
+  padding: 0px 20px;
+}
+
+.logo {
+  width: 150px;
+  object-fit: cover;
+  padding-bottom: 20px;
+  border-bottom: 1px solid var(--light-gray);
+  position: relative;
+  z-index: 9;
+}
+
+.container h2 {
+  font-weight: 500;
+  position: relative;
+  z-index: 9;
+  font-size: 16px;
+}
+
+.header .desc {
+  font-size: 14px;
+  position: relative;
+  z-index: 9;
+  padding: 15px;
+  border-bottom: 2px solid var(--orange);
+}
+
+.half {
+  width: 100%;
+  aspect-ratio: 1/1;
+  background-color: var(--lighter-gray);
+  position: absolute;
+  z-index: 8;
+  border-radius: 50%;
+  top: 50%;
+  transform: translateY(-30%);
+}
+
+.desc::after {
+  content: "";
+  width: 10px;
+  height: 10px;
+  background-color: rgb(4, 4, 192);
+  z-index: 9;
+  position: absolute;
+  top: 0;
+  right: 0;
+  border-radius: 50%;
+}
+
+.header::after {
+  content: "";
+  width: 15px;
+  height: 15px;
+  background-color: rgb(211, 6, 6);
+  z-index: 9;
+  position: absolute;
+  top: 50%;
+  left: 50px;
+  border-radius: 50%;
+}
+
+.header::before {
+  content: "";
+  width: 50px;
+  height: 50px;
+  background-color: rgb(26, 176, 0);
+  z-index: 9;
+  position: absolute;
+  top: -10px;
+  right: 0px;
+  clip-path: polygon(
+    20% 0%,
+    0% 20%,
+    30% 50%,
+    0% 80%,
+    20% 100%,
+    50% 70%,
+    80% 100%,
+    100% 80%,
+    70% 50%,
+    100% 20%,
+    80% 0%,
+    50% 30%
+  );
+  border-radius: 50%;
+}
